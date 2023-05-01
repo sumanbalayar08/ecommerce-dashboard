@@ -15,6 +15,29 @@
       font-family: fantasy;
       text-align: center;
 }
+
+.inputForm{
+  margin-left: 30%;
+}
+
+.inputForm input {
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 300px;
+  border: 1px solid skyblue
+}
+.btn{
+  margin: 27px;
+  padding: 10px;
+  width: 150px;
+  background-color: skyblue;
+  border: 1px solid;
+  cursor: pointer;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+}
+
 .footer{
       text-align: center;
         position: absolute;
