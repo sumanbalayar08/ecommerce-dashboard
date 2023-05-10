@@ -16,11 +16,11 @@
       text-align: center;
 }
 
-.inputForm{
+.inputForm, .product{
   margin-left: 30%;
 }
 
-.inputForm input {
+.inputForm input, .inputBox {
   display: block;
   margin: 25px;
   padding: 7px;
